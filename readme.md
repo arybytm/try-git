@@ -5,3 +5,4 @@ This is my portofolio
 Face Recognition
 Vehicle Detection
 Stock Prediction
+Titanic Challenge
